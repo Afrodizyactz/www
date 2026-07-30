@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://afrodizzycasts.co.za/sitemap.xml
